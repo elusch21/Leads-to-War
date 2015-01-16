@@ -1,3 +1,4 @@
+// You know, ever since i was young I had a story to tell. I was born SHOTS FIRED
 var cash = 1000;
 var turns = 0;
 var units = 0;
